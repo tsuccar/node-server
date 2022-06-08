@@ -2,6 +2,7 @@
 const express = require ("express");
 
 // if HTML form is used
+//Express 4.16.x and newer includes body-parser.
 const bodyParser = require ("body-parser");
 
 const app = express();
