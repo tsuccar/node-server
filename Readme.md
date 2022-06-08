@@ -23,6 +23,7 @@ Description: How to start Node.js Service with (Atom IDE, Node.js, NPM start, no
  2. Install Express
 
 	- npm install express 		-	https://expressjs.com/
+  - npm install body-parser                     < if processing Post request from HTML forms.
 
 3. Copy/Paste Boiler template for
     index.hmtl
